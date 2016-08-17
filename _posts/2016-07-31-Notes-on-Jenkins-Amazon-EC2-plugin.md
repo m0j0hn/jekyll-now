@@ -39,9 +39,9 @@ Here are some different settings for these values, and what I observed happening
 EC2 IC     | NodeType IC | Result
 ---------- | ----------- | ------
 1          | 1           | 1 node is spawned, work is sent to it, jobs queued up waiting for this node
-1          | 2           |
-1          | 3           |
-2          | 1           |
+1          | 2           | ??? **1** node is spawned; work is sent to it, jobs queued up waiting for this node
+1          | 3           | ??? **1** node is spawned; work is sent to it, jobs queued up waiting for this node
+2          | 1           | ??? **2** nodes spawned; work sent to both, jobs queued up waiting for these nodes
 2          | 2           |
 2          | 3           |
 3          | 1           |
