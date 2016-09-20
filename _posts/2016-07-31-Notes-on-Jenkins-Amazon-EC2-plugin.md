@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Notes on Jenkins' Amazon EC2 plugin
+category: Dev
+tags: [aws,jenkins]
 ---
 
 Some working notes on configuring & using Jenkins' Amazon EC2 plugin

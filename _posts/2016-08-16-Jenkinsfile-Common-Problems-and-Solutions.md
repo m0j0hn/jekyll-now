@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Jenkinsfile Common Problems - and Solutions
+category: Dev
+tags: [jenkins,jenkinsfile,groovy]
 ---
 
 Some working notes on configuring & using Jenkins' Jenkinsfile to build Github repository content
