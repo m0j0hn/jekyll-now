@@ -1,0 +1,4 @@
+# http://m0j0hn.github.io/robots.txt
+User-agent: *
+Disallow:
+Sitemap: http://m0j0hn.github.io/sitemap.xml
