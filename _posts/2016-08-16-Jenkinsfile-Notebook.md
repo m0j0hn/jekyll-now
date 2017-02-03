@@ -5,7 +5,7 @@ category: Dev
 tags: [jenkins,jenkinsfile,groovy]
 ---
 
-Some working notes on configuring & using Jenkins' Jenkinsfile to build Github repository content
+Configuring & using Jenkins' Jenkinsfile to build Github repository content
 
 [//]: # ( we are using this comment style )
 [//]: # ( ![_config.yml]({{ site.baseurl }}/images/config.png) )
