@@ -5,7 +5,7 @@ category: Dev
 tags: [java,maven]
 ---
 
-Some working notes on configuring & using Maven for best performance
+Configuring & using Maven for best performance
 
 [//]: # ( we are using this comment style )
 [//]: # ( ![_config.yml]({{ site.baseurl }}/images/config.png) )
