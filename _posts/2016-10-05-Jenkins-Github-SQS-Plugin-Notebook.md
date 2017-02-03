@@ -5,7 +5,7 @@ category: Dev
 tags: [aws,ci,github,jenkins,sqs]
 ---
 
-Some working notes on configuring & using Jenkins' Github SQS plugin to trigger builds on Github repository changes
+Configuring & using Jenkins' Github SQS plugin to trigger builds on Github repository changes
 
 [//]: # ( we are using this comment style )
 [//]: # ( ![_config.yml]({{ site.baseurl }}/images/config.png) )
