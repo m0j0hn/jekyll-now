@@ -5,7 +5,7 @@ category: Dev
 tags: [aws,ec2,jenkins,plugin]
 ---
 
-Some working notes on configuring & using Jenkins' Amazon EC2 plugin
+Configuring & using Jenkins' Amazon EC2 plugin
 
 [//]: # ( we are using this comment style )
 [//]: # ( ![_config.yml]({{ site.baseurl }}/images/config.png) )
