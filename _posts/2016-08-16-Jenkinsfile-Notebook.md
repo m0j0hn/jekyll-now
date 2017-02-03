@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jenkinsfile Common Problems - and Solutions
+title: Jenkinsfile Notebook
 category: Dev
 tags: [jenkins,jenkinsfile,groovy]
 ---
