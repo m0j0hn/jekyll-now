@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on Maven Performance
+title: Maven Performance Notebook
 category: Dev
 tags: [java,maven]
 ---
